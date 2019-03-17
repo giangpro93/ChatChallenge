@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ChatWindowWrapper.qml</file>
+        <file>ChatWindow.qml</file>
+        <file>MPButton.qml</file>
+        <file>MPInputBox.qml</file>
+        <file>Main.qml</file>
+    </qresource>
+</RCC>
